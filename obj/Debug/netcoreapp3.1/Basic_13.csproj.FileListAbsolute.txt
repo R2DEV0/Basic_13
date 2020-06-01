@@ -1,0 +1,13 @@
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.csprojAssemblyReference.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.csproj.CoreCompileInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.AssemblyInfoInputs.cache
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.AssemblyInfo.cs
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.exe
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.deps.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.runtimeconfig.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.runtimeconfig.dev.json
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\bin\Debug\netcoreapp3.1\Basic_13.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.dll
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.pdb
+C:\Users\r2dev\Desktop\coding_dojo\C#\Basic_13\obj\Debug\netcoreapp3.1\Basic_13.genruntimeconfig.cache
